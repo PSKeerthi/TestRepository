@@ -15,6 +15,7 @@ public class Welcome {
 	public static void display()
     {
    	 System.out.println("Hello All");
+   	 System.out.println("After pushing changes");
     }
     
 }
